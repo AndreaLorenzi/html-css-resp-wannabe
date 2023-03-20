@@ -140,5 +140,9 @@ img {
     .why-us .col-right{
         width: 100%;
     }
-
+}
+@media (max-width:780px){
+    .container{
+     width: 100%;   
+    }
 }
